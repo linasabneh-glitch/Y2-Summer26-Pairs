@@ -10,39 +10,66 @@ load_dotenv()
 
 
 client = Anthropic(api_key=os.getenv('ANTHROPIC_API_KEY'))
+#count = " "
+# while count == " ":
+#     user_option=input("Choose a chatbot to chat with: #1# Joey(a computer science, biology and history tutor) or  #2# Fatom( your motivation bestie))")
+#     if user_option.isdigit() and int(user_option) == 1:
+#         count = " "
+#         print("Joey (your helpful tutor):")
+#         from app1 import agent1
+#         agent1()
+#         break
+#     elif user_option.isdigit() and int(user_option) == 2:
+#         count = "1"
+#         print("Fatom (your motivational bestie):")
+#         from app2 import agent2
+#         agent2()
+#         break
+#     elif "1" in user_option:
+#         print("Joey (your helpful tutor):")
+#         count = "1"
+#         from app1 import agent1
+#         agent1()
+#         break
+#     elif "2" in user_option:
+#         print("Fatom (your motivational bestie):")
+#         count = "1"
+#         from app2 import agent2
+#         agent2()
+#         break 
+#     elif "joey" in user_option.lower():
+#         print("Joey (your helpful tutor):")
+#         count = "1"
+#         from app1 import agent1
+#         agent1()
+#         break
+#     elif "fatom" in user_option.lower():
+#         print("Fatom (your motivational bestie):")
+#         count = "1"
+#         from app2 import agent2
+#         agent2()
+#         break
+    
+#     else:
+#         print("Ipnvalid input. Please choose a chatbot")
 
 while True:
+
     user_option=input("Choose a chatbot to chat with: #1# Joey(a computer science, biology and history tutor) or  #2# Fatom( your motivation bestie))")
-    if user_option.isdigit() and int(user_option) == 1:
-        print("Joey (your helpful tutor):")
+    if user_option == "1":
+        print("Joey(your helpful tutor): ")
         from app1 import agent1
         agent1()
         break
-    elif user_option.isdigit() and int(user_option) == 2:
-        print("Fatom (your motivational bestie):")
+
+    elif user_option == "2":
+        print("Fatom(your motivational bestie): ")
         from app2 import agent2
         agent2()
         break
-    elif "1" in user_option:
-        print("Joey (your helpful tutor):")
-        from app1 import agent1
-        agent1()
-        break
-    elif "2" in user_option:
-        print("Fatom (your motivational bestie):")
-        from app2 import agent2
-        agent2()
-        break 
-    elif "joey" in user_option.lower():
-        print("Joey (your helpful tutor):")
-        from app1 import agent1
-        agent1()
-        break
-    elif "fatom" in user_option.lower():
-        print("Fatom (your motivational bestie):")
-        from app2 import agent2
-        agent2()
-        break
-    
+
     else:
-        print("Ipnvalid input. Please choose a chatbot")
+        print("Invalid input. Please choose a chatbot")
+        user_option=input("Choose a chatbot to chat with: #1# Joey(a computer science, biology and history tutor) or  #2# Fatom( your motivation bestie))")
+
+    
