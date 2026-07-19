@@ -1,13 +1,45 @@
 import os
+import urllib.request
+import ssl
 from anthropic import Anthropic
 from dotenv import load_dotenv
+
+ssl._create_default_https_context = ssl._create_unverified_context
 
 load_dotenv()
 
 
 
 client = Anthropic(api_key=os.getenv('ANTHROPIC_API_KEY'))
+def download_file(url: str, save_as: str) -> str:
+    """Downloads a file from a direct URL and saves it locally."""
+    try:
+        urllib.request.urlretrieve(url, save_as)
+        filepath = os.path.abspath(save_as)
+        return f"Download complete! Saved to {filepath}"
+    except Exception as e:
+        return f"Error downloading file: {e}"
 
+fatom_tools = [
+    {
+        "name": "download_file",
+        "description": "Downloads a helpful mental health worksheet, habit tracker, or journal template for the user.",
+        "input_schema": {
+            "type": "object",
+            "properties": {
+                "url": {
+                    "type": "string",
+                    "description": "The direct web link to the PDF or text file."
+                },
+                "save_as": {
+                    "type": "string",
+                    "description": "The local filename to save the file as (e.g., 'breathing_exercise.txt')."
+                }
+            },
+            "required": ["url", "save_as"]
+        }
+    }
+]
 def agent2():
     print('You: (type exit to quit)')
     system_message = """
@@ -17,10 +49,13 @@ Your job is to [uplift the user and give them encouraging & postive advice along
 
 Rules:
 -Always [encourage and uplift the user with postive and motivating affrimations]
--Always [give helpful and clear advice on how to continue and future steps]
+-Always[give the user a checklist with three short tasks to help their current situation (for exmapke if they are stressed it might look like -breathe - take a look around you -drink water)]
+-Always [give helpful and clear tip on how to continue and future steps]
 -Alawys [repsond and give repsonses and advice in a clear and summarized way to avoid chaos and stress]
 -Never [use frantic or a busy unclear style to avoid stressing out or overhwhelming the user ]
--Never [give the user more than two  clear and tips at a time unless the ask for them to aviod confusing them]
+-Never [give the user more than tone  clear and tip at a time unless the ask for them to aviod confusing them]
+-Never [add more more blocks of text/ more snetneces than the ones given to you to write in you in your rules to avoid long unorganzied repsposes]
+
 
 Response format:
 - Start with as simple and clear one-sentence summary of what the user said/or asked for .
@@ -46,8 +81,23 @@ Response format:
             max_tokens=300,
             temperature=0.7,
             system=system_message,
-            messages=history
+            messages=history,
+            tools=fatom_tools
         )
+        if response.stop_reason == "tool_use":
+            # Find the tool call in Claude's response
+            tool_use = next(block for block in response.content if block.type == "tool_use")
+            
+            print(f"Fatom: 📂 Let me grab a resource for you! Downloading '{tool_use.input['save_as']}'...")
+            
+            # Run the actual Python code
+            tool_result_string = download_file(url=tool_use.input["url"], save_as=tool_use.input["save_as"])
+            print(f"System: {tool_result_string}\n")
+            
+            # To keep things simple for now, we just append a note to the history so Claude 
+            # remembers she gave the user a file, and then we let the user reply.
+            history.append({'role': 'assistant', 'content': f"(System Note: You successfully used your tool to download {tool_use.input['save_as']} for the user.)"})
+            continue
 
         reply = response.content[0].text
         
