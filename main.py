@@ -18,14 +18,17 @@ while True:
         print("Joey(your helpful tutor): ")
         from app1 import agent1
         agent1()
-        break
+        
 
     elif user_option == "2":
         print("Fatom(your motivational bestie): ")
         from app2 import agent2
         agent2()
+        
+    elif user_option == "exit":
+        print("goodbye!")
         break
-
+    
     else:
         print("Invalid input. Please choose a chatbot")
         user_option=input("Choose a chatbot to chat with: #1# Joey(a computer science, biology and history tutor) or  #2# Fatom( your motivation bestie))")
