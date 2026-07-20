@@ -1,6 +1,7 @@
 import os
 import urllib.request
 import ssl
+from fpdf import FPDF
 from anthropic import Anthropic
 from dotenv import load_dotenv
 
