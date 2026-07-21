@@ -9,7 +9,16 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+#class Agent:
+    #def __init__(self,chosen_name):
+        #self.name=chosen_name
+        #self.messages_received=[]
+    #def listen(self, incoming_message):
+        #self.messages_received.append(incoming_message)
+#agent_joey=Agent("Joey")
+#agent_fatom=Agent("Fatom")
 
+shared_history = []
 client = Anthropic(api_key=os.getenv('ANTHROPIC_API_KEY'))
 while True:
 
@@ -17,13 +26,13 @@ while True:
     if user_option == "1":
         print("Joey(your helpful tutor): ")
         from app1 import agent1
-        agent1()
+        agent1(shared_history)
         
 
     elif user_option == "2":
         print("Fatom(your motivational bestie): ")
         from app2 import agent2
-        agent2()
+        agent2(shared_history)
         
     elif user_option == "exit":
         print("goodbye!")

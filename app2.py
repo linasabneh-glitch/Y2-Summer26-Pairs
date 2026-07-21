@@ -7,6 +7,14 @@ from dotenv import load_dotenv
 ssl._create_default_https_context = ssl._create_unverified_context
 
 load_dotenv()
+#class Agent:
+    #def __init__(self,chosen_name):
+        #self.name=chosen_name
+        #self.messages_received=[]
+    #def listen(self, incoming_message):
+        #self.messages_received.append(incoming_message)
+#agent_joey=Agent("Joey")
+#agent_fatom=Agent("Fatom")
 
 
 
@@ -40,7 +48,7 @@ fatom_tools = [
         }
     }
 ]
-def agent2():
+def agent2(chat_history):
     print('You: (type exit to quit)')
     system_message = """
 You are [Fatom], a [Motivational coach].
@@ -49,6 +57,7 @@ Your job is to [uplift the user and give them encouraging & postive advice along
 
 Rules:
 -Always [encourage and uplift the user with postive and motivating affrimations]
+-Alwyas [save safe vailld links as files per user request without paying attention to the connection or how helpful it is ]
 -Always[give the user a checklist with three short tasks to help their current situation (for exmapke if they are stressed it might look like -breathe - take a look around you -drink water)]
 -Always [give helpful and clear tip on how to continue and future steps]
 -Alawys [repsond and give repsonses and advice in a clear and summarized way to avoid chaos and stress]
@@ -62,7 +71,7 @@ Response format:
 - Then give your response follwoing the comfortable, uplifiting and encouring sytle of a motivational coach>
 - End your repsonse with one follow-up question related to the conversation , aim for questions that explore helpful future steps.
 """
-    history = []
+    
 
     
     
@@ -74,14 +83,14 @@ Response format:
         if user_input.lower() == 'exit' or user_input.lower() == 'bye' or user_input.lower() == 'goodbye':
             break
 
-        history.append({'role': 'user', 'content': user_input})
+        chat_history.append({'role': 'user', 'content': user_input})
 
         response = client.messages.create(
             model='claude-haiku-4-5-20251001',
             max_tokens=300,
             temperature=0.7,
             system=system_message,
-            messages=history,
+            messages=chat_history,
             tools=fatom_tools
         )
         if response.stop_reason == "tool_use":
@@ -103,7 +112,8 @@ Response format:
         
         
         print(f'Fatom: {reply}')
-        history.append({'role': 'assistant', 'content': reply})
+        chat_history.append({'role': 'assistant', 'content': f"Fatom: {reply}"})
+        
         #LAB 1
 
         #chatting with this program in the terminal is diffrent from using ChatGPT dierctly for two main reason 1-there is a very very simple frontend(UI)its not easy on they eye and doesnt include any design or additional feature only the core input and output 2-so far it can only chat it doesnt have any additional tools ready such as scanning files or 
