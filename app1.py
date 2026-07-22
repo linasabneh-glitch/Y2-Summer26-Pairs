@@ -54,13 +54,17 @@ def agent1(chat_history):
         chat_history.append({'role': 'user', 'content': user_input})
         
         #print('History:', history)
-        response = client.messages.create(
-            model='claude-haiku-4-5-20251001',
-            max_tokens=300,
-            temperature=1.,
-            system=system_message,
-            messages=chat_history
-        )
+        try:
+            response = client.messages.create(
+                model='claude-haiku-4-5-20251001',
+                max_tokens=300,
+                temperature=1.,
+                system=system_message,
+                messages=chat_history
+            )
+
+        except Exception as e:
+            print(f"Something went wrong: {e}")
 
         if user_input == "pdf":
             create_pdf()

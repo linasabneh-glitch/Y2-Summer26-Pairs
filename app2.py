@@ -85,14 +85,21 @@ Response format:
 
         chat_history.append({'role': 'user', 'content': user_input})
 
-        response = client.messages.create(
-            model='claude-haiku-4-5-20251001',
-            max_tokens=300,
-            temperature=0.7,
-            system=system_message,
-            messages=chat_history,
-            tools=fatom_tools
-        )
+        try:
+            response = client.messages.create(
+                model='claude-haiku-4-5-20251001',
+                max_tokens=300,
+                temperature=0.7,
+                system=system_message,
+                messages=chat_history,
+                tools=fatom_tools
+            )
+
+        except Exception as e:
+            print(f"Something went wrong: {e}")
+            continue
+
+
         if response.stop_reason == "tool_use":
             # Find the tool call in Claude's response
             tool_use = next(block for block in response.content if block.type == "tool_use")
