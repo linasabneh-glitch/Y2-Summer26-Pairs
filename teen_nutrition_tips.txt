@@ -1,0 +1,1794 @@
+
+<!DOCTYPE HTML>
+
+<html lang="en">
+    <head>
+
+  <!-- Google Fonts -->
+  <meta name="content-page-ref" content="xqyWuhi4Fz3ZPOmeGSPCshTkJQ2loTBogLxV1vSbaRJHgEdvRf4hWEScp5BPcvMaXJau2KHfKLwD0lNQwRuVJtTE8dSqK-y_Wf6_zlyVkVw"/>
+<script defer="defer" type="text/javascript" src="/.rum/@adobe/helix-rum-js@%5E2/dist/micro.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet"/>
+  <!-- End Google Fonts -->
+  
+    <script src="https://assets.adobedtm.com/60e564f16d33/ac808e2960eb/launch-9661e12d662b.min.js" async></script>
+  
+  <meta charset="UTF-8"/>
+  <meta name="marcTag" content="page/head.html"/>
+  
+
+  
+
+
+  
+    
+    
+
+	 
+    
+    
+
+  
+
+
+  
+  <meta name="template" content="categorytemplate"/>
+  
+
+  
+
+       
+    
+    
+      
+      <meta name="kh:pageKeywords" content="food, fitness, dieting, taking care of my body, exercising, nutrition, overweight, underweight, recipes, eating disorders, sports injuries, steroids, pressure, fat, skinny"/>
+      <meta name="kh:pageDescription" content="Wondering if a diet is really safe? Or how you can excel at sports? Get info on healthy eats, dieting, strength training, eating disorders, steroids, and more."/>
+      
+      <meta property="kh:pageTitle" content="Food &amp; Fitness"/>
+     
+      <meta name="section" content="teens"/>
+      <meta name="language" content="english"/>
+      <meta name="kh_content_type" content="category"/>
+      <meta name="fusionDataSource" content="kidshealth"/>
+      <meta name="kh_language" content="english"/>
+      <meta name="kh_section" content="teens"/>
+      <meta name="kh_licensee" content="Mothership"/>
+	  <meta name="adcondition" content="general_wellnessandprevention"/>
+	  <meta name="hashID" content="52c7b173cbac043f1b9ea9c6eb6910881f7c7435"/>
+      <meta name="site" content="MOTHERSHIP"/>
+     
+
+    <meta name="keywords" content="food, fitness, dieting, taking care of my body, exercising, nutrition, overweight, underweight, recipes, eating disorders, sports injuries, steroids, pressure, fat, skinny"/>
+    <meta name="description" content="Wondering if a diet is really safe? Or how you can excel at sports? Get info on healthy eats, dieting, strength training, eating disorders, steroids, and more."/>
+    <meta name="published_date" content="05/22/2023 15:06PM"/>
+    <meta name="name-URL"/>
+    <meta name="notify" content="n"/>
+    <meta name="created date" content="05/30/2026 "/>
+    <meta name="last-modified-date" content="05/22/2023 "/>
+    <meta name="language" content="Spanish"/>  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+       
+
+    
+    <meta name="allow-Search" content="true"/>
+    <meta name="available-to-MotherShip" content=" true"/>
+    <meta name="available-to-Licencesee" content="false"/>
+    <meta name="availble-to-XML-feed" content=" false"/>
+    <meta name="allow-Web-Services" content="false"/>
+    <meta name="Author"/>
+    <meta name="Aspects"/>
+    <meta name="Categories"/>
+    <meta name="Last-Review-By" content=" "/>
+    <meta name="allow-Web-Services" content="false"/>
+    
+    
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/kidshealth/clientlibs/clientlib-base.lc-6e8e8d254c8d3ac08f46af996f8c7511-lc.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/kidshealth/clientlibs/clientlib-site.lc-3abeb6d58109947289099e327aeca38e-lc.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/kidshealth/clientlibs/clientlib-common.lc-d9cf08d837f76ebca1c4e2cc9974e576-lc.min.css" type="text/css">
+<script src="/etc.clientlibs/clientlibs/granite/jquery.lc-7842899024219bcbdb5e72c946870b79-lc.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/utils.lc-e7bf340a353e643d198b25d0c8ccce47-lc.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite.lc-543d214c88dfa6f4a3233b630c82d875-lc.min.js"></script>
+<script src="/etc.clientlibs/kidshealth/clientlibs/clientlib-base.lc-f35d86f9ab8f4346af3922c618ab2e0f-lc.min.js"></script>
+<script src="/etc.clientlibs/kidshealth/clientlibs/clientlibs-js-site.lc-8074c972212e0e68c9c0b0468d847a3a-lc.min.js"></script>
+
+
+
+    <!-- moved custom includes from here to top -->
+    
+    
+<script src="/etc.clientlibs/kidshealth/clientlibs/clientlib-js-common.lc-bed34d568174733e214d9ab1d9532b17-lc.min.js"></script>
+
+
+
+    
+    
+	
+    
+        <script>
+            KHAdLanguage ="en";
+            KHAdSection ="teen";
+            KHAdSubCat = "alf_en_teens_food-fitness";
+            KHAdTitle ="foodfitness";
+            KHCD = ""; // clinical designation aspect
+            KHPCD = ""; // primary clinical designation aspect
+            KHAge = ""; // age aspect
+            KHGenre = ""; // genre aspect
+            KHPCAFull = "pca_en_teens_cat_food-fitness"; // full gam tag for aspects
+            licName = "KidsHealth";
+        </script>
+                
+                <meta property="og:description" content="Wondering if a diet is really safe? Or how you can excel at sports? Get info on healthy eats, dieting, strength training, eating disorders, steroids, and more."/>
+
+        
+			
+			
+			
+            
+            
+				
+				
+				
+				<meta property="og:title" content="Food &amp; Fitness (for Teens)"/>
+				
+				
+				
+				
+				
+				<meta property="twitter:title" content="Food &amp; Fitness (for Teens)"/>
+				
+                
+				<meta property="og:image" content="https://kidshealth.org/content/dam/kh-reskin/T_socialCard_small_en.png"/>
+				<meta name="twitter:image" content="https://kidshealth.org/content/dam/kh-reskin/T_socialCard_small_en.png"/>
+            
+        
+        
+            
+            <meta property="og:image:type" content="image/png"/>
+            <meta property="og:image:width" content="200"/>
+            <meta property="og:image:height" content="200"/>
+            <meta property="og:image:alt" content="Nemours KidsHealth"/>
+            
+            <meta name="twitter:card" content="summary"/>
+            <meta name="twitter:description" content="Wondering if a diet is really safe? Or how you can excel at sports? Get info on healthy eats, dieting, strength training, eating disorders, steroids, and more."/>
+            <meta name="twitter:image:alt" content="Nemours KidsHealth"/>
+        
+
+
+        
+    
+        <!-- Adobe Analytics -->
+        <script>
+            window.digitalData = window.digitalData || {};
+            window.digitalData = {
+                page : {
+                    language:'english',
+                    licensee:'Mothership',
+                    pageType:'category',
+                    section:'teens',
+                    template:'categorytemplate',
+                    title:'Food &amp; Fitness'
+                }
+            };
+        </script>
+        <!-- End Adobe Analytics -->
+    
+    <!--/* Adobe Analytics Data Layer for Search Results is handled via search.js */ -->
+    
+
+    
+    
+        
+            
+            
+                
+                    <meta property="og:url" content="https://kidshealth.org/en/teens/food-fitness" x-cq-linkchecker="skip"/>
+                    <link rel="canonical" href="https://kidshealth.org/en/teens/food-fitness"/>
+                
+                    
+                        <link rel="alternate" hreflang="es" href="https://kidshealth.org/es/teens/food-fitness/"/>
+                        <link rel="alternate" hreflang="en" href="https://kidshealth.org/en/teens/food-fitness"/>
+                    
+                    
+                
+            
+            
+            
+            
+        
+
+    
+      
+        
+
+
+
+
+    <link rel="icon" type="image/png" href="/content/dam/kh-reskin/favicon-2.png"/>
+    <script>
+      var isEdit = "false";
+    </script>
+    
+    
+	
+	
+	
+	<title>Food &amp; Fitness (for Teens) | Nemours KidsHealth</title>
+	
+  
+</head>
+
+<body class="com.adobe.cq.wcm.core.components.internal.models.v3.PageImpl@3cf324c7 mouseUser">
+            
+<!--googleoff:all-->
+<div id="skipnavigation"><a id="skippy" class="accessible" href="#thelou">[Skip to Content]</a></div>
+<div id="kh-background-overlay" aria-hidden="true" tabindex="-1" style="display: none"> </div>
+
+<div id="khMainContainer" class="catPageContainer">
+   
+   
+   
+
+
+
+
+    
+    
+    <div class="header">
+	
+	
+		<header id="kh-header">
+			<!-- english version -->
+			<div id="kh-eyebrow-container" class="englishEyebrow"><!-- note, I called this the eyebrow, there is now a top-right button also called the eyebrow -->
+				<div id="kh-eyebrow" class="container-width">
+					<span>Find care at </span>
+					<span class="kh-eyebrow-links">
+						<a href="https://www.nemours.org?external_id=RE2350835010600" aria-label="This link will open in a new window" target="_blank" aria-description="This link opens in a new tab" class="icon-external-link">Nemours Children's Health</a>
+						<span class="eyebrow-bar" aria-hidden="true"></span>
+						<a href="https://www.nemours.org/find-a-doctor.html?external_id=RE2350835010600" aria-label="This link will open in a new window" target="_blank" aria-description="This link opens in a new tab" class="icon-external-link">Doctors</a>
+						<span class="eyebrow-bar" aria-hidden="true"></span>
+						<a href="https://www.nemours.org/locations.html?external_id=RE2350835010600" aria-label="This link will open in a new window" target="_blank" aria-description="This link opens in a new tab" class="icon-external-link">Locations</a>
+					</span>
+			
+			
+				</div>
+			</div>
+			<div class="kh-header-container">
+				<div id="kh-header-section" class="container-width">
+					<div id="kh-header-row-1">
+						<div id="kh-logo">
+							<a href="/en/teens.html/" target="_self">
+								 <img src="/content/dam/kh-reskin/nemours-teenshealth-logo.svg" alt="Nemours TeensHealth"/> 
+								
+							</a>						
+						</div>
+						
+							
+						
+						
+					</div>
+					<div id="kh-header-row-2">
+						<nav aria-label="Main">
+							<ul id="kh-topnav-tabs" class="kh-mobile-hidden kh-english">
+								<li>
+									<button id="kh-parents-tab" aria-expanded="false" data-title="For Parents" data-section="parents">
+										<span class="kh-section-text">For Parents</span>
+									</button>
+								</li>
+								<li>
+									<button id="kh-kids-tab" aria-expanded="false" data-title="For Kids" data-section="kids">
+										<span class="kh-section-text">For Kids</span>
+									</button>
+								</li>
+								<li>
+									<button id="kh-teens-tab" aria-expanded="false" data-title="For Teens" data-section="teens">
+										<span class="kh-section-text">For Teens</span>
+									</button>
+								</li>
+								
+									<li data-section="educators">
+										<button id="kh-educator-tab" aria-expanded="false" role="link" class="new-window-button" onclick="window.open('https://classroom.kidshealth.org', '_blank')" data-title="For Educators" target="_blank">
+											<span class="kh-section-text">For Educators</span>
+										</button>
+									</li>
+									
+								
+							</ul>
+						</nav>
+						<div id="kh-header-buttons">
+							<div id="kh-search" data-search-endpoint="https://kidshealth.org">
+								<button type="button" data-expanded="false" id="kh-search-icon" class="ctg showOnDesktop">Search</button>
+							</div>
+							<div id="kh-mob-menu-toggle">
+								<button data-expanded="false" id="kh-mob-icon" aria-expanded="false"><span class="hideOffScreen">Menu</span></button>
+							</div>
+						</div>
+					</div>
+					
+					
+				</div>
+			</div>
+
+			<div id="kh-mob-menu"><!-- note that these are also the desktop menu dropdowns but this container only comes into effect on mobile -->
+				<div id="kh-mob-menu-top-row">
+					<div id="kh-mob-logo">
+						<a href="/en/teens.html/" target="_self">
+							<img src="/content/dam/kh-reskin/nemours-teenshealth-logo.svg" alt="Nemours TeensHealth"/>
+						</a>
+					</div>
+					<div id="kh-mob-close">
+						<button id="mob-menu-close">Close Menu</button> 
+					</div>
+				</div>
+				<ul id="kh-mob-menu-buttons">
+					<li>
+						<button id="mob-butt-parents" aria-expanded="false" data-title="For Parents" data-section="parents">
+							<span class="kh-section-text">For Parents</span>
+						</button>
+						
+					</li>
+					<li>
+						<button id="mob-butt-kids" aria-expanded="false" data-title="For Kids" data-section="kids">
+							<span class="kh-section-text">For Kids</span>
+						</button>
+					</li>
+					<li>
+						<button id="mob-butt-teens" aria-expanded="false" data-title="For Teens" data-section="teens">
+							<span class="kh-section-text">For Teens</span>
+						</button>
+					</li>
+					
+						<li data-section="educators">
+							<button id="mob-butt-educators" aria-expanded="false" role="link" class="new-window-button" onclick="window.open('https://classroom.kidshealth.org', '_blank')" data-title="For Educators" target="_blank">
+								<span class="kh-section-text">For Educators</span>
+							</button>
+						</li>
+					
+					
+						
+					
+					<div class="tabTrap" id="tabTrap_mm" tabindex="-1"></div>
+				</ul>
+				<div class="kh-section-subnav closedNav" id="kh-parents-subnav" data-section="parents">
+					<div class="kh-section-subnav-inner container-width">
+						<div class="kh-mob-back">
+							<button id="parentsBack" data-section="parents">Back</button>
+						</div>
+						<div class="kh-section-subnav-row1">
+							<label for="parents-main-nav-list" class="desktop-label">Featured Topics</label>
+							<label for="parents-main-nav-list" class="mobile-label">For Parents</label>
+						</div>
+						<div class="kh-section-subnav-row2">
+							<div class="khsr2-left">
+								<ul class="kh-subnav-lr" id="parents-main-nav-list">
+									
+										<li class="mob-nav-only"><a class="tertiary-link" href="/es/parents/" lang="es">Sitio para padres</a></li>
+										<li class="mob-nav-only"><a href="/en/parents/">Parents Home</a></li>
+									
+									
+									
+										
+											<li>
+												<a href="https://kidshealth.org/en/parents/general/">General Health</a>
+											</li>
+																			
+									
+										
+											<li>
+												<a href="https://kidshealth.org/en/parents/growth/">Growth &amp; Development</a>
+											</li>
+																			
+									
+										
+											<li>
+												<a href="https://kidshealth.org/en/parents/infections/">Infections</a>
+											</li>
+																			
+									
+										
+											<li>
+												<a href="https://kidshealth.org/en/parents/medical/">Diseases &amp; Conditions</a>
+											</li>
+																			
+									
+										
+											<li>
+												<a href="https://kidshealth.org/en/parents/pregnancy-newborn/">Pregnancy &amp; Baby</a>
+											</li>
+																			
+									
+										
+											<li>
+												<a href="https://kidshealth.org/en/parents/nutrition-center/">Nutrition &amp; Fitness</a>
+											</li>
+																			
+									
+										
+											<li>
+												<a href="https://kidshealth.org/en/parents/emotions/">Emotions &amp; Behavior</a>
+											</li>
+																			
+									
+										
+											<li>
+												<a href="https://kidshealth.org/en/parents/positive/">School &amp; Family Life</a>
+											</li>
+																			
+									
+										
+											<li>
+												<a href="https://kidshealth.org/en/parents/firstaid-safe/">First Aid &amp; Safety</a>
+											</li>
+																			
+									
+										
+											<li>
+												<a href="https://kidshealth.org/en/parents/system/">Doctors &amp; Hospitals</a>
+											</li>
+																			
+									
+										
+											<li>
+												<a href="https://kidshealth.org/en/parents/videos/">Videos</a>
+											</li>
+																			
+									
+										
+											<li>
+												<a href="https://kidshealth.org/en/parents/recipes/">Expert Answers (Q&amp;A)</a>
+											</li>
+																			
+									
+									<li class="mob-nav-only"><a class="tertiary-link" href="https://kidshealth.org/en/parents/all-categories.html">All Categories</a></li>
+									<li class="mob-nav-only"><a class="tertiary-link" href="https://kidshealth.org/en/parents/centers/center.html">All Wellness Centers</a></li>
+								</ul>
+							</div>
+							<div class="khsr2-right">
+								<a href="https://kidshealth.org/en/parents/celebrating-30-years.html">
+									<span class="khsr2-r-c1"><img src="/content/dam/kh-reskin/menu-promo-kid-30th.png" alt="We&#39;ve been providing trusted health information for 30 years."/></span>
+									<span class="khsr2-r-c2">
+										<span class="khsr2-2-c2-heading">Nemours KidsHealth® Is Celebrating!</span>
+										<span class="khsr2-r-c2-r1">We&#39;ve been providing trusted health information for 30 years.</span>
+										<span class="khsr2-r-c2-r2 tertiary-link-partial">Learn More</span>
+									</span>
+								</a>
+							</div>
+						</div>
+						<div class="kh-section-subnav-row3 desk-nav-only">
+							<div class="khsr3-left">
+								<ul>
+									<li><a class="tertiary-link" href="https://kidshealth.org/en/parents/">Parents Home</a></li>
+									<li><a class="tertiary-link" href="https://kidshealth.org/es/parents/" lang="es">Sitio para padres</a></li>
+									<li><a class="tertiary-link" href="https://kidshealth.org/en/parents/all-categories.html">All Categories</a></li>
+									<li><a class="tertiary-link" href="https://kidshealth.org/en/parents/centers/center.html">All Wellness Centers</a></li>
+								</ul>
+							</div>
+							<div class="khsr3-right">
+								<div class="tabTrap" id="tabTrap_parents" tabindex="-1"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="kh-section-subnav closedNav" id="kh-kids-subnav" data-section="kids">
+					<div class="kh-section-subnav-inner container-width">
+						<div class="kh-mob-back">
+							<button id="kidsBack" data-section="kids">Back</button>
+						</div>
+						<div class="kh-section-subnav-row1">
+							<label for="kids-main-nav-list" class="desktop-label">Featured Topics</label>
+							<label for="kids-main-nav-list" class="mobile-label">For Kids</label>
+						</div>
+						<div class="kh-section-subnav-row2">
+							<div class="khsr2-left">
+								<ul class="kh-subnav-lr" id="kids-main-nav-list">
+									
+										<li class="mob-nav-only"><a class="tertiary-link" href="/es/kids/" lang="es">Sitio para niños</a></li>
+										<li class="mob-nav-only"><a href="/en/kids/">Kids Home</a></li>
+									
+									
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/kids/center/htbw-main-page.html">How the Body Works</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/kids/grow/">Puberty &amp; Growing Up</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/kids/stay-healthy/">Staying Healthy</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/kids/watch/">Staying Safe</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/kids/word/">Dictionary</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/kids/health-problems/">Health Problems</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/kids/ill-injure/">Illnesses &amp; Injuries</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/kids/center/relax-center.html">Relax &amp; Unwind</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/kids/feel-better/">People, Places &amp; Things That Help</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/kids/feeling/">Feelings</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/kids/talk/">Expert Answers (Q&amp;A)</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/kids/videos/">Videos</a>
+											
+										</li>
+									
+									<li class="mob-nav-only"><a class="tertiary-link" href="https://kidshealth.org/en/kids/all-categories.html">All Categories</a></li>
+									<li class="mob-nav-only"><a class="tertiary-link" href="https://kidshealth.org/en/kids/centers/center.html">All Wellness Centers</a></li>	
+								</ul>
+							</div>
+							<div class="khsr2-right">
+								<a href="https://kidshealth.org/en/parents/celebrating-30-years.html">
+									<span class="khsr2-r-c1"><img src="/content/dam/kh-reskin/menu-promo-kid-30th.png" alt="We&#39;ve been providing trusted health information for 30 years."/></span>
+									<span class="khsr2-r-c2">
+										<span class="khsr2-2-c2-heading">Nemours KidsHealth® Is Celebrating!</span>
+										<span class="khsr2-r-c2-r1">We&#39;ve been providing trusted health information for 30 years.</span>
+										<span class="khsr2-r-c2-r2 tertiary-link-partial">Learn More</span>
+									</span>
+								</a>
+							</div>
+						</div>
+						<div class="kh-section-subnav-row3 desk-nav-only">
+							<div class="khsr3-left">
+								<ul>
+									<li><a class="tertiary-link" href="https://kidshealth.org/en/kids/">Kids Home</a></li>
+									<li><a class="tertiary-link" href="https://kidshealth.org/es/kids/" lang="es">Sitio para niños</a></li>
+									<li><a class="tertiary-link" href="https://kidshealth.org/en/kids/all-categories.html">All Categories</a></li>
+									<li><a class="tertiary-link" href="https://kidshealth.org/en/kids/centers/center.html">All Wellness Centers</a></li>
+								</ul>
+							</div>
+							<div class="khsr3-right">
+								<div class="tabTrap" id="tabTrap_kids" tabindex="-1"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="kh-section-subnav closedNav" id="kh-teens-subnav" data-section="teens">
+					<div class="kh-section-subnav-inner container-width">
+						<div class="kh-mob-back">
+							<button id="teensBack" data-section="teens">Back</button>
+						</div>
+						<div class="kh-section-subnav-row1">
+							<label for="teens-main-nav-list" class="desktop-label">Featured Topics</label>
+							<label for="teens-main-nav-list" class="mobile-label">For Teens</label>
+						</div>
+						<div class="kh-section-subnav-row2">
+							<div class="khsr2-left">
+								<ul class="kh-subnav-lr" id="teens-main-nav-list">
+									
+										<li class="mob-nav-only"><a class="tertiary-link" href="/es/teens/" lang="es">Sitio para adolescentes</a></li>
+										<li class="mob-nav-only"><a href="/en/teens/">Teens Home</a></li>
+									
+																
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/teens/your-body/">Body</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/teens/your-mind/">Mind</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/teens/sexual-health/">Sexual Health</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/teens/food-fitness/">Food &amp; Fitness</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/teens/diseases-conditions/">Diseases &amp; Conditions</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/teens/infections/">Infections</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/teens/drug-alcohol/">Drugs &amp; Alcohol</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/teens/school-jobs/">School &amp; Jobs</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/teens/sports-center/">Sports</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/teens/expert/">Expert Answers (Q&amp;A)</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/teens/safety/">Staying Safe</a>
+											
+										</li>
+									
+										<li>
+											
+											
+												<a href="https://kidshealth.org/en/teens/videos/">Videos</a>
+											
+										</li>
+									
+									<li class="mob-nav-only"><a class="tertiary-link" href="https://kidshealth.org/en/teens/all-categories.html">All Categories</a></li>
+									<li class="mob-nav-only"><a class="tertiary-link" href="https://kidshealth.org/en/teens/centers/center.html">All Wellness Centers</a></li>
+								</ul>
+							</div>
+							<div class="khsr2-right">
+								<a href="https://kidshealth.org/en/parents/celebrating-30-years.html">
+									<span class="khsr2-r-c1"><img src="/content/dam/kh-reskin/menu-promo-kid-30th.png" alt="We&#39;ve been providing trusted health information for 30 years."/></span>
+									<span class="khsr2-r-c2">
+										<span class="khsr2-2-c2-heading">Nemours KidsHealth® Is Celebrating!</span>
+										<span class="khsr2-r-c2-r1">We&#39;ve been providing trusted health information for 30 years.</span>
+										<span class="khsr2-r-c2-r2 tertiary-link-partial">Learn More</span>
+									</span>
+								</a>
+							</div>
+						</div>
+						<div class="kh-section-subnav-row3 desk-nav-only">
+							<div class="khsr3-left">
+								<ul>
+									<li><a class="tertiary-link" href="https://kidshealth.org/en/teens/">Teens Home</a></li>
+									<li><a class="tertiary-link" href="https://kidshealth.org/es/teens/" lang="es">Sitio para adolescentes</a></li>
+									<li><a class="tertiary-link" href="https://kidshealth.org/en/teens/all-categories.html">All Categories</a></li>
+									<li><a class="tertiary-link" href="https://kidshealth.org/en/teens/centers/center.html">All Wellness Centers</a></li>
+								</ul>
+							</div>
+							<div class="khsr3-right">
+								<div class="tabTrap" id="tabTrap_teens" tabindex="-1"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div id="kh-search-area" role="dialog" aria-label="Search" class="closedSearch">
+				<form id="searchform" name="searchform" method="get" role="search" action="/en/searchresults.html" actionpath="/en/searchresults.html" class="container-width noSuggs">
+					<input type="hidden" name="search" value="y"/><label for="q" class="hideOffScreen">Search KidsHealth library</label>
+					<div class="easy-autocomplete" style="width: 100px;">
+					
+					
+						<input type="text" maxlength="256" id="q" name="q" placeholder="Search" onfocus="clearText(this)" onblur="clearText(this)" role="combobox" autocomplete="off" lang="en" required="required" aria-expanded="false" tabindex="0"/>
+					
+						
+						<div class="easy-autocomplete-container" id="eac-container-q">
+							<ul role="listbox"></ul>
+						</div>
+					</div>
+					<script>
+						
+					</script>
+					<input type="hidden" name="datasource" value="kidshealth"/><input type="hidden" name="start" value="0"/><input type="hidden" name="rows" value="10"/> <input type="hidden" name="section" value="parents_teens_kids"/>
+					<div id="searchSelectBox">
+						<select id="searchLangSelector" name="lang">
+						
+						
+							<option value="english" id="kh-search-lang-sel-en" selected="selected">English</option>
+							<option value="spanish" id="kh-search-lang-sel-es">Espa&#241ol</option>
+						
+							
+						</select>
+					</div>
+					<input type="button" value="search" id="searchButton" role="button" onclick="searchurl();"/>
+					<!-- <div id="nullfield" style="display:none;"><span id="validationMessage"></span></div> -->
+					<div id="validationfield">
+						<span id="validationMessage"> </span>
+					</div>
+					<div id="suggsAnnounce" aria-live="polite" role="status" class="hideOffScreen"></div>
+				</form>
+				<div class="tabTrap" id="tabTrap_search" tabindex="-1"></div>
+			</div>
+		</header>
+	
+	
+    
+
+</div>
+
+
+
+    	
+   <div id="mainContentContainer" style="left:27px;">
+      <div id="thelou" tabindex="-1"> </div>
+      <main id="khMSMain" class="content-width">
+         
+         <div id="khContentTitleBlock">
+            <div id="khContentHeading" class="ctg"> 
+               <h1>Food &amp; Fitness</h1>
+               
+               
+    <div id="languagePairLink" class="rs_skip" lang="es">
+        en español: <a href="/es/teens/food-fitness/">Alimentos y actividad física</a>
+    </div>
+
+               
+            </div>
+         </div>
+         <div id="khcontent" class="catPage">
+            <div id="khcontent_category" class="khCatLeft">
+               
+	               
+
+<p id="khcontent_category_description">Wondering if a diet is really safe? Or how you can excel at sports? Get info on healthy eats, dieting, strength training, eating disorders, steroids, and more.
+               </p>
+               
+               
+
+
+
+
+    
+    
+    <div class="category">
+
+<h2 class="kh-category-name">
+<button id="catexercise" aria-expanded="false" class="kh-category-title">Exercise</button>
+</h2>
+
+
+    
+        <ul class="kh-category-single">
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/goals-tips.html">5 Facts About Goal Setting</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/eatnrun.html">A Guide to Eating for Sports</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/bursitis.html">Bursitis</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/find-sports.html">Choosing the Right Sport for You</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/compulsive-exercise.html">Compulsive Exercise</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/stretching-vd.html">Dynamic Stretching (Video)</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/easy-exercises.html">Easy Exercises for Teens</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/exercise-log.html">Exercise Log</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/motivation.html">Motivation and the Power of Not Giving Up</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/center/fitness-nutrition-center.html">Nutrition &amp; Fitness (Topic Center)</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/sport-safety.html">Sports and Exercise Safety</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/sports-energy-drinks.html">Sports Drinks and Energy Drinks</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/sports-physicals.html">Sports Physicals</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/strength-training.html">Strength Training</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/stretching.html">Stretching</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/strength-training-vd.html">Weight Management: Strength Training Exercises (Video)</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/quit-sports.html">What if I Want to Quit a Sport?</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/exercise-wise.html">Why Exercise Is Wise</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/yoga.html">Yoga</a>
+            </li>
+        </ul>
+        
+    
+
+
+
+<h2 class="kh-category-name">
+<button id="catsports" aria-expanded="false" class="kh-category-title">Sports</button>
+</h2>
+
+
+    
+        <ul class="kh-category-single">
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/goals-tips.html">5 Facts About Goal Setting</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/tips-sports.html">5 Ways to Prepare for Your Sports Season</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/eatnrun.html">A Guide to Eating for Sports</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/ankle-sprains.html">Ankle Sprains</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/safety-baseball.html">Baseball Safety Tips</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/safety-basketball.html">Basketball Safety Tips</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/bursitis.html">Bursitis</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/find-sports.html">Choosing the Right Sport for You</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/sports-injuries.html">Dealing With Sports Injuries</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/sports-pressure.html">Dealing With Stress In Sports</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/stretching-vd.html">Dynamic Stretching (Video)</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/triad.html">Female Athlete Triad</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/safety-football.html">Football Safety Tips</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/safety-gymnastics.html">Gymnastics Safety Tips</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/hernias.html">Hernias</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/safety-hockey.html">Hockey Safety Tips</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/sportsmanship.html">How to Be a Good Sport</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/safety-inline.html">Inline Skating Safety Tips</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/safety-lacrosse.html">Lacrosse Safety Tips</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/mcl-injuries.html">Medial Collateral Ligament (MCL) Injuries</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/osgood.html">Osgood-Schlatter Disease</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/rsi.html">Overuse Injuries</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/cheerleading.html">Safety Tips: Cheerleading</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/safety-fastpitch.html">Safety Tips: Fastpitch Softball</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/field-hockey-safety.html">Safety Tips: Field Hockey</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/safety-skateboarding.html">Skateboarding Safety Tips</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/safety-skiing.html">Skiing Safety Tips </a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/safety-snowboarding.html">Snowboarding Safety Tips</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/safety-soccer.html">Soccer Safety Tips </a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/sport-safety.html">Sports and Exercise Safety</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/sports-energy-drinks.html">Sports Drinks and Energy Drinks</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/center/sports-center.html">Sports Medicine (Topic Center)</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/sports-physicals.html">Sports Physicals</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/sports-supplements.html">Sports Supplements</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/stress-fractures.html">Stress Fractures</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/stretching.html">Stretching</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/safety-swimming.html">Swimming Safety Tips </a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/safety-tennis.html">Tennis Safety Tips</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/testicular-injuries.html">Testicular Injuries</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/safety-volleyball.html">Volleyball Safety Tips</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/steroids.html">What Are the Risks of Steroid Use?</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/quit-sports.html">What if I Want to Quit a Sport?</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/concussions-sports.html">When Can Teens Go Back to Sports After a Concussion?</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/safety-wrestling.html">Wrestling Safety Tips </a>
+            </li>
+        </ul>
+        
+    
+
+
+
+<h2 class="kh-category-name">
+<button id="catnutrition" aria-expanded="false" class="kh-category-title">Nutrition Basics</button>
+</h2>
+
+
+    
+        <ul class="kh-category-single">
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/veggies-tips.html">5 Ways to Get Your 5 a Day</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/eatnrun.html">A Guide to Eating for Sports</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/vegetarian.html">Being a Vegetarian</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/breakfast-sheet.html">Breakfast on the Go</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/calcium.html">Calcium</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/cholesterol.html">Cholesterol</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/cf-menu.html">Cystic Fibrosis: Sample Menu</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/cystic-fibrosis-dietary-tips.html">Dietary Tips for Teens With Cystic Fibrosis</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/fat-calories.html">Figuring Out Fat and Calories</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/food-allergies.html">Food Allergies</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/portion-size.html">Food Portions: How Much Should I Eat?</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/eating-out.html">Healthy Eating Away From Home</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/lactose-intolerance.html">Lactose Intolerance</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/milk-allergy.html">Milk Allergy</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/myplate.html">MyPlate Food Guide</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/gain-weight.html">Should I Gain Weight?</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/healthy-snacks.html">Smart Snacking</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/sports-energy-drinks.html">Sports Drinks and Energy Drinks</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/vitamins-minerals.html">Vitamins and Minerals</a>
+            </li>
+        </ul>
+        
+    
+
+
+
+<h2 class="kh-category-name">
+<button id="catdieting" aria-expanded="false" class="kh-category-title">Healthy Weight</button>
+</h2>
+
+
+    
+        <ul class="kh-category-single">
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/summer-weight.html">5 Ways to Beat Summer Weight Gain</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/weight-tips.html">5 Ways to Reach a Healthy Weight</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/detox-diets.html">Are Detox Diets Safe?</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/bmi.html">Body Mass Index (BMI)</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/breakfast-sheet.html">Breakfast on the Go</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/easy-exercises.html">Easy Exercises for Teens</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/emotional-eating.html">Emotional Eating</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/exercise-log.html">Exercise Log</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/portion-size.html">Food Portions: How Much Should I Eat?</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/lose-weight-safely.html">How Can I Lose Weight Safely?</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/motivation.html">Motivation and the Power of Not Giving Up</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/myplate.html">MyPlate Food Guide</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/center/fitness-nutrition-center.html">Nutrition &amp; Fitness (Topic Center)</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/healthy-weight.html">Staying at a Healthy Weight</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/dieting.html">The Deal With Diets</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/strength-training-vd.html">Weight Management: Strength Training Exercises (Video)</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/weight-height.html">What&#39;s the Right Weight for My Height?</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/obesity.html">When Being Overweight Is a Health Problem</a>
+            </li>
+        </ul>
+        
+    
+
+
+
+<h2 class="kh-category-name">
+<button id="catfood-fit-qa" aria-expanded="false" class="kh-category-title">Food &amp; Fitness Q&amp;As</button>
+</h2>
+
+
+    
+        <ul class="kh-category-single">
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/healthier-ff.html">Are There Healthy Fast-Food Options?</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/go-exercise.html">How Can I Get Motivated to Exercise?</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/expert-overeating.html">What Can I Do About Overeating?</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/water.html">What&#39;s a Healthy Alternative to Water?</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/helmets-concussion.html">Why Wear a Helmet If It Can&#39;t Prevent Concussions?</a>
+            </li>
+        </ul>
+        
+    
+
+
+
+<h2 class="kh-category-name">
+<button id="catproblems" aria-expanded="false" class="kh-category-title">Problems With Food &amp; Exercise</button>
+</h2>
+
+
+    
+        <ul class="kh-category-single">
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/ankle-sprains.html">Ankle Sprains</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/binge-eating.html">Binge Eating Disorder</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/body-image.html">Body Image and Self-Esteem</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/bursitis.html">Bursitis</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/compulsive-exercise.html">Compulsive Exercise</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/eat-disorder.html">Eating Disorders</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/emotional-eating.html">Emotional Eating</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/triad.html">Female Athlete Triad</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/stomachaches.html">Stomachaches</a>
+            </li>
+        </ul>
+        
+    
+
+
+
+<h2 class="kh-category-name">
+<button id="catwellbeing" aria-expanded="false" class="kh-category-title">Total Well-Being</button>
+</h2>
+
+
+    
+        <ul class="kh-category-single">
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/body-image.html">Body Image and Self-Esteem</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/how-much-sleep.html">How Much Sleep Do I Need?</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/center/fitness-nutrition-center.html">Nutrition &amp; Fitness (Topic Center)</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/healthy-snacks.html">Smart Snacking</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/weight-height.html">What&#39;s the Right Weight for My Height?</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/exercise-wise.html">Why Exercise Is Wise</a>
+            </li>
+        
+            <li>
+                
+                <a class="linkFromCat" href="https://kidshealth.org/en/teens/yoga.html">Yoga</a>
+            </li>
+        </ul>
+        
+    
+
+
+
+
+
+
+<script>
+$("div#khcontent_category ul.kh-category-single").removeClass("kh-category-single").addClass("kh-category-list").hide();
+$("div#khcontent_category button.kh-category-title").each(function(){
+$id = $(this).attr("id");
+$(this).parent("h2").next().attr("id",$id+"List");
+})
+$('div.category h2').each(function () {
+var type = $(this).next();
+if(!type.is("ul")){
+var buttonId = $(this).find("button");
+if(buttonId != undefined && $("div#"+$(buttonId).attr("id")+"List") != undefined){
+	$("div#"+$(buttonId).attr("id")+"List").remove();
+	}
+$(this).remove();
+}
+});
+</script></div>
+
+
+
+            </div>
+            
+               
+            
+         </div>
+          	
+         
+          	
+      </main>
+   </div>
+   
+   
+   
+
+
+
+
+    
+    
+    <div class="footer">
+	
+	
+		<footer>
+			<div id="kh-footer">
+				<div class="kh-container">
+					<div id="footerRows" class="container-width">
+						<div id="footerRow1">
+							<nav aria-label="site info">
+								<div id="footer-col1">
+									<h5 id="col1H" class="footerColumnHeading">Who We Are</h5>
+									<ul id="col1UL" class="footerList">
+										
+											<li>
+												
+												
+													
+													
+														<a href="https://kidshealth.org/en/teens/about.html">About Us</a>
+													
+												
+											</li>
+										
+									</ul>
+								</div>
+								<div id="footer-col2">
+									<h5 id="col2H" class="footerColumnHeading">Working With Us</h5>
+									<ul id="col2UL" class="footerList">
+										
+											<li>
+												
+												
+													
+													
+														<a href="https://kidshealth.org/en/parents/partners.html">Partners</a>
+													
+												
+											</li>
+										
+											<li>
+												
+												
+													
+													
+														<a href="https://kidshealth.org/en/teens/editorial-policy.html">Editorial Policy</a>
+													
+												
+											</li>
+										
+											<li>
+												
+												
+													
+													
+														<a href="https://kidshealth.org/en/parents/permissions-guidelines.html">Permissions Guidelines</a>
+													
+												
+											</li>
+										
+											<li>
+												
+												
+													
+														<a class="footerNewWindow icon-external-link" href="https://nemours.mediaroom.com/journalist-resources" target="_blank" aria-description="This link opens in a new tab">Media Requests <span class="hideOffScreen">This link will open in a new window</span></a>
+													
+													
+												
+											</li>
+										
+											<li>
+												
+												
+													
+													
+														<a href="https://kidshealth.org/en/teens/general-information/contact-us">Contact Us</a>
+													
+												
+											</li>
+										
+									</ul>
+								</div>
+								<div id="footer-col3">
+									<h5 id="col3H" class="footerColumnHeading">Legal &amp; Privacy</h5>
+									<ul id="col3UL" class="footerList">
+										
+											<li>
+												
+												
+													
+													
+														<a href="https://kidshealth.org/en/teens/policy.html">Privacy Policy &amp; Terms of Use</a>
+													
+												
+											</li>
+										
+											<li>
+												
+												
+													
+													
+														<a href="https://kidshealth.org/en/parents/nondiscrimination.html">Notice of Nondiscrimination</a>
+													
+												
+											</li>
+										
+									</ul>
+								</div>
+								<div id="footer-col4">
+									<h5 id="col4H" class="footerColumnHeading">All Categories</h5>
+									<ul id="col4UL" class="footerList">
+										
+											<li>
+												
+												
+													
+													
+														<a href="https://kidshealth.org/en/parents/all-categories.html">For Parents</a>
+													
+												
+											</li>
+										
+											<li>
+												
+												
+													
+													
+														<a href="https://kidshealth.org/en/kids/all-categories.html">For Kids</a>
+													
+												
+											</li>
+										
+											<li>
+												
+												
+													
+													
+														<a href="https://kidshealth.org/en/teens/all-categories.html">For Teens</a>
+													
+												
+											</li>
+										
+									</ul>
+									<h5 id="col4bH" class="footerColumnHeading">Wellness Centers</h5>
+									<ul id="col4bUL" class="footerList">
+										
+											<li>
+												
+												
+													
+													
+														<a href="https://kidshealth.org/en/parents/centers/center.html">For Parents</a>
+													
+												
+											</li>
+										
+											<li>
+												
+												
+													
+													
+														<a href="https://kidshealth.org/en/kids/centers/center.html">For Kids</a>
+													
+												
+											</li>
+										
+											<li>
+												
+												
+													
+													
+														<a href="https://kidshealth.org/en/teens/centers/center.html">For Teens</a>
+													
+												
+											</li>
+										
+									</ul>
+								</div>
+							</nav>
+						</div>
+						<div id="footerRow2">
+							<div id="ourSocials">
+								<ul id="socialRow">
+									<li id="khFB"><a href="https://www.facebook.com/nemourskidshealth/" target="_blank" aria-description="This link opens in a new tab" class="icon-external-link"><img src="/content/dam/kh-reskin/iconFacebookWhite.svg" alt="Nemours KidsHealth on Facebook"/></a></li>
+									<li id="khX"><a href="https://x.com/nemours" target="_blank" aria-description="This link opens in a new tab" class="icon-external-link"><img src="/content/dam/kh-reskin/iconTwitterWhite.svg" alt="Nemours KidsHealth on X"/></a></li>
+									<li id="khYT"><a href="https://www.youtube.com/@NemoursKidsHealth" target="_blank" aria-description="This link opens in a new tab" class="icon-external-link"><img src="/content/dam/kh-reskin/iconYoutubeWhite.svg" alt="Nemours KidsHealth on YouTube"/></a></li>
+								</ul>
+							</div>
+						</div>
+						<div id="footerRow3">
+							<div id="fr3C1">
+							<div id="footerLogo">
+								<a href="https://www.nemours.org/?external_id=RE2350803010600" id="kh-nemours-footer-logo" target="_blank" aria-description="This link opens in a new tab" class="icon-external-link">
+									
+									
+										<img src="/content/dam/kidshealth/logo-nemours_KidsHealth.svg" alt=""/>
+									
+								</a>
+							</div>
+							</div>
+							<div id="fr3C2">
+								<div id="kh-footer-text" class="container-width"><p>Note: All information on Nemours KidsHealth® is for educational purposes only. For specific medical advice, diagnoses, and treatment, consult your doctor. © 1995-2026. The Nemours Foundation. Nemours Children&#39;s Health®, Nemours KidsHealth®, KidsHealth®, and Well Beyond Medicine® are registered trademarks of The Nemours Foundation. All rights reserved. Images sourced by The Nemours Foundation and Getty Images.</p>
+</div>
+							</div>
+						</div>
+					</div>
+					
+						
+					
+				</div>
+		</footer>
+		
+    
+
+	
+
+<script>
+    $(function() {
+		var thisPage = window.location.pathname;
+		if(thisPage.indexOf('contact')>-1) {
+			// contact page - don't change
+		} else {
+			if(typeof(Storage) !== "undefined") {
+				localStorage.setItem('originurl',thisPage);
+			} 
+		}
+    });
+</script></div>
+
+
+
+   
+</div>
+            
+                
+                    
+    
+<script src="/etc.clientlibs/kidshealth/clientlibs/clientlib-videoplaylist.lc-445854a0c4a7c65c55a0a248371aa6f1-lc.min.js"></script>
+
+
+
+                
+            
+
+    </body>
+</html>

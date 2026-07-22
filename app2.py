@@ -112,7 +112,7 @@ Response format:
             
             # To keep things simple for now, we just append a note to the history so Claude 
             # remembers she gave the user a file, and then we let the user reply.
-            history.append({'role': 'assistant', 'content': f"(System Note: You successfully used your tool to download {tool_use.input['save_as']} for the user.)"})
+            chat_history.append({'role': 'assistant', 'content': f"(System Note: You successfully used your tool to download {tool_use.input['save_as']} for the user.)"})
             continue
 
         reply = response.content[0].text

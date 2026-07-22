@@ -26,7 +26,7 @@ def create_pdf():
     # 3. Write plain lines of text
     pdf.cell(w=0, h=10, txt=user_text, ln=True)
 
-
+exit
     # 4. Save the file
     pdf.output("plain_text_file.pdf")
     print("PDF created successfully!")
@@ -65,6 +65,7 @@ def agent1(chat_history):
 
         except Exception as e:
             print(f"Something went wrong: {e}")
+            continue
 
         if user_input == "pdf":
             create_pdf()
